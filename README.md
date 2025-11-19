@@ -2,7 +2,7 @@
 
 <h1>Hi , I'm Saimon Hossain</h1>
 <h3>A passionate frontend developer from Bangladesh</h3>
-<h2>About Me</h2>
+<h2>👨‍💻About Me</h2>
 <p>I'm a passionate Frontend Web developer. specializing in Web app development with react state management and API integration. I also work  Single Page Website. Currently, I am studying Computer Science and Technology at Chandpur Polytechnic Institute.</p>
 <br/>
 <h2>🔥 Currently Activities</h2>
@@ -27,7 +27,7 @@
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">🛜 Connect with me:</h2>
 <p align="left">
 <a href="https://fb.com/saimon547674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saimon547674" height="30" width="40" /></a>
 <a href="https://instagram.com/saimon547674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saimon547674" height="30" width="40" /></a>
