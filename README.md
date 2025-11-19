@@ -1,4 +1,4 @@
-[My GitHub Banner](https://i.ibb.co.com/C59DKxzq/Banner.jpg)
+![My GitHub Banner](https://i.ibb.co.com/C59DKxzq/Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Saimon Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
