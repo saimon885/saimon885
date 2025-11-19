@@ -1,8 +1,10 @@
 ![My GitHub Banner](https://i.ibb.co.com/C59DKxzq/Banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Saimon Hossain</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<h1>Hi , I'm Saimon Hossain</h1>
+<h3>A passionate frontend developer from Bangladesh</h3>
+<h2>About Me</h2>
+<p>I'm a passionate Frontend Web developer. specializing in Web app development with react state management and API integration. I also work  Single Page Website. Currently, I am studying Computer Science and Technology at Chandpur Polytechnic Institute.</p>
+<br/>
 - 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **github**
