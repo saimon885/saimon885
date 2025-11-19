@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saimon Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+- 🌱 I’m currently learning **JavaScript**
+
+- 👯 I’m looking to collaborate on **github**
+
+- 💬 Ask me about **Web Development**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -30,11 +35,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saimon885" alt="saimon885" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 👯 I’m looking to collaborate on **github**
-
-- 💬 Ask me about **Web Development**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimon885&show_icons=true&locale=en&layout=compact" alt="saimon885" /></p>
 
