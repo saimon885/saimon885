@@ -86,15 +86,15 @@ I also enjoy creating clean and interactive **Single Page Applications (SPA)**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saimon885&show_icons=true&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saimon885&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimon885&theme=react"/>
+  <img src="https://streak-stats.demolab.com?user=saimon885&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saimon885&layout=compact&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimon885&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
