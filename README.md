@@ -84,18 +84,23 @@ I also enjoy creating clean and interactive **Single Page Applications (SPA)**.
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saimon885&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <!-- Overall GitHub Stats Card -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saimon885&show_icons=true&theme=dark&hide_border=false&count_private=true&cache_seconds=86400" alt="Saimon Hossain GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saimon885&theme=tokyonight&hide_border=true" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saimon885&layout=compact&theme=dark&hide_border=false&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saimon885&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <!-- Streak Stats Card -->
+  <img src="https://streak-stats.demolab.com/?user=saimon885&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
