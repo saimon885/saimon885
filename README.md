@@ -84,21 +84,9 @@ I also enjoy creating clean and interactive **Single Page Applications (SPA)**.
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Overall GitHub Stats Card -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saimon885&show_icons=true&theme=dark&hide_border=false&count_private=true&cache_seconds=86400" alt="Saimon Hossain GitHub Stats"/>
-</p>
-
-<p align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saimon885&layout=compact&theme=dark&hide_border=false&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <!-- Streak Stats Card -->
-  <img src="https://streak-stats.demolab.com/?user=saimon885&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=saimon885&theme=tokyonight&hide_border=true" />
 </p>
 
 
