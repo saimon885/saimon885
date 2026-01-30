@@ -1,39 +1,104 @@
 ![My GitHub Banner](https://i.ibb.co.com/C59DKxzq/Banner.jpg)
 
-<h1>Hi , I'm Saimon Hossain</h1>
-<h3>A passionate frontend developer from Bangladesh</h3>
-<h2>👨‍💻About Me</h2>
-<p>I'm a passionate Frontend Web developer. specializing in Web app development with react state management and API integration. I also work  Single Page Website. Currently, I am studying Computer Science and Technology at Chandpur Polytechnic Institute.</p>
-<br/>
-<h2>🔥 Currently Activities</h2>
-- 🌱 I’m currently learning **JavaScript**
+<h1 align="center">Hi 👋, I'm Saimon Hossain</h1>
+<h3 align="center">🚀 A Passionate Frontend Developer from Bangladesh</h3>
 
-- 👯 I’m looking to collaborate on **github**
-
-- 💬 Ask me about **Web Development**
-
-
-
-
-<h1 align="left">Languages and Tools:</h1>
-<h2>⚡ Skills </h2>
-<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saimon885&label=Profile%20views&color=0e75b6&style=flat" alt="saimon885" />
 </p>
-<h3>Design Tools</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
+---
 
-<h2 align="left">🛜 Connect with me:</h2>
-<p align="left">
-<a href="https://fb.com/saimon547674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saimon547674" height="30" width="40" /></a>
-<a href="https://instagram.com/saimon547674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saimon547674" height="30" width="40" /></a>
+## 👨‍💻 About Me
+
+I’m a passionate **Frontend Web Developer** specializing in building modern, responsive web applications using **React**, efficient **state management**, and **API integration**.  
+I also enjoy creating clean and interactive **Single Page Applications (SPA)**.
+
+🎓 Currently studying **Computer Science & Technology** at  
+**Chandpur Polytechnic Institute**.
+
+---
+
+## 🔥 Current Activities
+
+- 🌱 Currently learning **JavaScript (Advanced Concepts)**
+- 👯 Looking to collaborate on **Open Source & GitHub Projects**
+- 💬 Ask me about **Frontend & Web Development**
+- 🎯 Goal: Become a **Professional MERN Stack Developer**
+
+---
+
+## ⚡ Skills & Technologies
+
+### 🌐 Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimon885&show_icons=true&locale=en&layout=compact" alt="saimon885" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saimon885&show_icons=true&locale=en" alt="saimon885" /></p>
+### 🧠 Backend & Database
+<p>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saimon885&" alt="saimon885" /></p>
+### 🧩 Programming Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+</p>
+
+### 🛠 Tools
+<p>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+</p>
+
+---
+
+## 🎨 Design Tools
+
+<p>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45"/>
+</p>
+
+---
+
+## 🛜 Connect With Me
+
+<p>
+  <a href="https://fb.com/saimon547674">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
+  </a>
+  <a href="https://instagram.com/saimon547674">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saimon885&show_icons=true&theme=react"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimon885&theme=react"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saimon885&layout=compact&theme=react"/>
+</p>
+
+---
+
+✨ *“Code, Learn, Build & Grow Every Day”*
+
+
