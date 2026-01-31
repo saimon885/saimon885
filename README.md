@@ -1,7 +1,7 @@
 ![My GitHub Banner](https://i.ibb.co/spvqBngf/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner.png)
 
 <h1 align="center">Hi 👋, I'm Saimon Hossain</h1>
-<h3 align="center">🚀 Frontend Developer | React Enthusiast | MERN Learner</h3>
+<h3 align="center">🚀 Frontend Developer | React & Next.js Enthusiast | MERN Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saimon885&label=Profile%20Views&color=blue&style=flat" />
@@ -14,8 +14,9 @@
 I’m a passionate **Frontend Web Developer** focused on building  
 **modern, responsive, and user-friendly web applications**.
 
-💡 I love working with **React**, **component-based architecture**,  
-**API integration**, and creating smooth **Single Page Applications (SPA)**.
+💡 I love working with **React & Next.js**, **component-based architecture**,  
+**API integration**, and creating smooth **Single Page Applications (SPA)**  
+as well as **SEO-friendly Server Side Rendered (SSR) applications**.
 
 🎓 Studying **Computer Science & Technology** at  
 **Chandpur Polytechnic Institute, Bangladesh 🇧🇩**
@@ -24,8 +25,9 @@ I’m a passionate **Frontend Web Developer** focused on building
 
 ## 🔥 What I'm Currently Doing
 
-- 🌱 Learning **Advanced JavaScript & React Patterns**
-- ⚙️ Practicing **MERN Stack Development**
+- 🌱 Learning **Advanced JavaScript, React & Next.js Patterns**
+- ⚙️ Practicing **Full MERN Stack Development**
+- 🧠 Improving **Data Structures & Algorithms (DSA)** for problem solving
 - 👯 Contributing to **Open Source & GitHub Projects**
 - 🎯 Goal: Become a **Professional Full-Stack (MERN) Developer**
 
@@ -35,7 +37,7 @@ I’m a passionate **Frontend Web Developer** focused on building
 
 ### 🌐 Frontend
 <p align="">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
 </p>
 
 ### 🧠 Backend & Database
@@ -48,6 +50,14 @@ I’m a passionate **Frontend Web Developer** focused on building
   <img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
+### 📚 Problem Solving & CS Fundamentals
+- ✅ **Data Structures & Algorithms (DSA)**
+- ✅ Array, String, Stack, Queue, Linked List
+- ✅ Basic Recursion & Time Complexity
+- ✅ Problem Solving with Java & JavaScript
+
+---
+
 ### 🛠 Tools & Platforms
 <p align="">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -57,6 +67,15 @@ I’m a passionate **Frontend Web Developer** focused on building
 <p align="">
   <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop" />
 </p>
+
+---
+
+## 💡 Development Mindset
+
+- ⚡ **Vibe Coding** – Clean UI, smooth UX & developer-friendly code
+- 🧼 Clean Code & Reusable Components
+- 📱 Mobile-First & Responsive Design
+- 🚀 Performance & Optimization Focused
 
 ---
 
@@ -73,7 +92,7 @@ I’m a passionate **Frontend Web Developer** focused on building
 
 ## 🛜 Connect With Me
 
-<p align="center">
+<p align="">
   <a href="https://fb.com/saimon547674">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
   </a>
@@ -90,20 +109,9 @@ I’m a passionate **Frontend Web Developer** focused on building
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saimon885&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=saimon885&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimon885&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ✨ *“Code. Learn. Build. Improve — Every Single Day.”*
-
-
-
