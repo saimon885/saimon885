@@ -1,84 +1,87 @@
-![My GitHub Banner](https://i.ibb.co.com/spvqBngf/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner.png)
-
+![My GitHub Banner](https://i.ibb.co/spvqBngf/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner.png)
 
 <h1 align="center">Hi 👋, I'm Saimon Hossain</h1>
-<h3 align="center">🚀 A Passionate Frontend Developer from Bangladesh</h3>
+<h3 align="center">🚀 Frontend Developer | React Enthusiast | MERN Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saimon885&label=Profile%20views&color=0e75b6&style=flat" alt="saimon885" />
+  <img src="https://komarev.com/ghpvc/?username=saimon885&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a passionate **Frontend Web Developer** specializing in building modern, responsive web applications using **React**, efficient **state management**, and **API integration**.  
-I also enjoy creating clean and interactive **Single Page Applications (SPA)**.
+I’m a passionate **Frontend Web Developer** focused on building  
+**modern, responsive, and user-friendly web applications**.
 
-🎓 Currently studying **Computer Science & Technology** at  
-**Chandpur Polytechnic Institute**.
+💡 I love working with **React**, **component-based architecture**,  
+**API integration**, and creating smooth **Single Page Applications (SPA)**.
+
+🎓 Studying **Computer Science & Technology** at  
+**Chandpur Polytechnic Institute, Bangladesh 🇧🇩**
 
 ---
 
-## 🔥 Current Activities
+## 🔥 What I'm Currently Doing
 
-- 🌱 Currently learning **JavaScript (Advanced Concepts)**
-- 👯 Looking to collaborate on **Open Source & GitHub Projects**
-- 💬 Ask me about **Frontend & Web Development**
-- 🎯 Goal: Become a **Professional MERN Stack Developer**
+- 🌱 Learning **Advanced JavaScript & React Patterns**
+- ⚙️ Practicing **MERN Stack Development**
+- 👯 Contributing to **Open Source & GitHub Projects**
+- 🎯 Goal: Become a **Professional Full-Stack (MERN) Developer**
 
 ---
 
 ## ⚡ Skills & Technologies
 
 ### 🌐 Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
+<p align="">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
 </p>
 
 ### 🧠 Backend & Database
-<p>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
+<p align="">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" />
 </p>
 
 ### 🧩 Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<p align="">
+  <img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
-### 🛠 Tools
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+### 🛠 Tools & Platforms
+<p align="">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 🎨 Design Tools
+<p align="">
+  <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop" />
 </p>
 
 ---
 
-## 🎨 Design Tools
+## 🚀 Featured Projects
+> *(Pin these repositories on GitHub)*
 
-<p>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45"/>
-</p>
+- 🩸 **BloodHive** – MERN based blood donation platform  
+- 🛒 **Apps Store** – Dynamic React application  
+- 🐈 **PetBond Website** – CRUD Operation  
+
+👉 *More projects coming soon...*
 
 ---
 
 ## 🛜 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://fb.com/saimon547674">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
   </a>
   <a href="https://instagram.com/saimon547674">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+  </a>
+  <a href="mailto:saimonhossan34567@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
   </a>
 </p>
 
@@ -87,12 +90,20 @@ I also enjoy creating clean and interactive **Single Page Applications (SPA)**.
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saimon885&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=saimon885&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimon885&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-✨ *“Code, Learn, Build & Grow Every Day”*
+✨ *“Code. Learn. Build. Improve — Every Single Day.”*
+
 
 
