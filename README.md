@@ -1,4 +1,4 @@
-![My GitHub Banner](https://ibb.co.com/mrC4xkRj)
+![My GitHub Banner](https://i.ibb.co.com/spvqBngf/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Saimon Hossain</h1>
