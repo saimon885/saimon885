@@ -50,13 +50,7 @@ as well as **SEO-friendly Server Side Rendered (SSR) applications**.
   <img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
-### 📚 Problem Solving & CS Fundamentals
-- ✅ **Data Structures & Algorithms (DSA)**
-- ✅ Array, String, Stack, Queue, Linked List
-- ✅ Basic Recursion & Time Complexity
-- ✅ Problem Solving with Java & JavaScript
 
----
 
 ### 🛠 Tools & Platforms
 <p align="">
@@ -67,6 +61,13 @@ as well as **SEO-friendly Server Side Rendered (SSR) applications**.
 <p align="">
   <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop" />
 </p>
+
+---
+### 📚 Problem Solving & CS Fundamentals
+- ✅ **Data Structures & Algorithms (DSA)**
+- ✅ Array, String, Stack, Queue, Linked List
+- ✅ Basic Recursion & Time Complexity
+- ✅ Problem Solving with Java & JavaScript
 
 ---
 
