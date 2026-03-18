@@ -45,12 +45,6 @@ as well as **SEO-friendly Server Side Rendered (SSR) applications**.
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" />
 </p>
 
-### 🧩 Programming Languages
-<p align="">
-  <img src="https://skillicons.dev/icons?i=java,python" />
-</p>
-
-
 
 ### 🛠 Tools & Platforms
 <p align="">
@@ -60,6 +54,11 @@ as well as **SEO-friendly Server Side Rendered (SSR) applications**.
 ### 🎨 Design Tools
 <p align="">
   <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop" />
+</p>
+
+### 🧩 Others Programming Languages
+<p align="">
+  <img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
 ---
