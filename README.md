@@ -1,7 +1,7 @@
 ![My GitHub Banner](https://i.ibb.co/spvqBngf/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner.png)
 
 <h1 align="center">Hi 👋, I'm Saimon Hossain</h1>
-<h3 align="center">🚀 Frontend Developer | React & Next.js Enthusiast | MERN Learner</h3>
+<h3 align="center">🚀 MERN STACK DEVELOPER</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saimon885&label=Profile%20Views&color=blue&style=flat" />
