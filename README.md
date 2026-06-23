@@ -39,23 +39,6 @@ I specialize in:
 
 Currently focused on becoming a professional Software Engineer and contributing to impactful products.
 
----
-
-# 🎯 Current Focus
-
-🌱 Advanced TypeScript & Design Patterns
-
-⚙️ Scalable Backend Architecture
-
-🗄️ PostgreSQL Database Design
-
-🔥 Prisma ORM & Database Optimization
-
-🧠 Data Structures & Algorithms
-
-🚀 Full Stack System Design
-
-🌍 Open Source Contributions
 
 ---
 
@@ -67,7 +50,7 @@ Currently focused on becoming a professional Software Engineer and contributing 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
 </p>
 
-## Backend and Database
+## Backend
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
@@ -132,7 +115,7 @@ Pet Adoption & Management System
 ### 🏠 Home Care Services
 Service Booking & Management Platform
 
-**Tech Stack:** MERN Stack
+**Tech Stack:** MERN Stack + Next.js
 
 ### 📱 Apps Store
 Modern React Application
@@ -190,20 +173,6 @@ Modern React Application
 </a>
 
 </p>
-
----
-
-# 📌 2026 Goals
-
-🎯 Master Advanced Backend Development
-
-🎯 Learn System Design
-
-🎯 Contribute to Open Source
-
-🎯 Build SaaS Products
-
-🎯 Land a Remote Software Engineer Position
 
 ---
 
