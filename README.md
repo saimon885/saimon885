@@ -1,117 +1,212 @@
-![My GitHub Banner](https://i.ibb.co/spvqBngf/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner.png)
+![Banner](https://i.ibb.co.com/3m8Pr7LD/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner.png)
 
 <h1 align="center">Hi 👋, I'm Saimon Hossain</h1>
-<h3 align="center">🚀 MERN STACK DEVELOPER</h3>
+
+<h3 align="center">
+🚀 Full Stack Developer | MERN Stack | Next.js | Node.js | Express.js | PostgreSQL
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saimon885&label=Profile%20Views&color=blue&style=flat" />
+Building scalable web applications with modern technologies.
 </p>
-
----
-
-## 👨‍💻 About Me
-
-I’m a passionate **Frontend Web Developer** focused on building  
-**modern, responsive, and user-friendly web applications**.
-
-💡 I love working with **React & Next.js**, **component-based architecture**,  
-**API integration**, and creating smooth **Single Page Applications (SPA)**  
-as well as **SEO-friendly Server Side Rendered (SSR) applications**.
-
-🎓 Studying **Computer Science & Technology** at  
-**Chandpur Polytechnic Institute, Bangladesh 🇧🇩**
-
----
-
-## 🔥 What I'm Currently Doing
-
-- 🌱 Learning **Advanced JavaScript, React & Next.js Patterns**
-- ⚙️ Practicing **Full MERN Stack Development**
-- 🧠 Improving **Data Structures & Algorithms (DSA)** for problem solving
-- 👯 Contributing to **Open Source & GitHub Projects**
-- 🎯 Goal: Become a **Professional Full-Stack (MERN) Developer**
-
----
-
-## ⚡ Skills & Technologies
-
-### 🌐 Frontend
-<p align="">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
-</p>
-
-### 🧠 Backend & Database
-<p align="">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" />
-</p>
-
-
-### 🛠 Tools & Platforms
-<p align="">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### 🎨 Design Tools
-<p align="">
-  <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop" />
-</p>
-
-### 🧩 Others Programming Languages
-<p align="">
-  <img src="https://skillicons.dev/icons?i=java,python" />
-</p>
-
----
-### 📚 Problem Solving & CS Fundamentals
-- ✅ **Data Structures & Algorithms (DSA)**
-- ✅ Array, String, Stack, Queue, Linked List
-- ✅ Basic Recursion & Time Complexity
-- ✅ Problem Solving with Java & JavaScript
-
----
-
-## 💡 Development Mindset
-
-- ⚡ **Vibe Coding** – Clean UI, smooth UX & developer-friendly code
-- 🧼 Clean Code & Reusable Components
-- 📱 Mobile-First & Responsive Design
-- 🚀 Performance & Optimization Focused
-
----
-
-## 🚀 Featured Projects
-> *(Pin these repositories on GitHub)*
-
-- 🩸 **BloodHive** – MERN based blood donation platform  
-- 🛒 **Apps Store** – Dynamic React application  
-- 🐈 **PetBond Website** – CRUD Operation  
-
-👉 *More projects coming soon...*
-
----
-
-## 🛜 Connect With Me
-
-<p align="">
-  <a href="https://fb.com/saimon547674">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
-  </a>
-  <a href="https://instagram.com/saimon547674">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-  </a>
-  <a href="mailto:saimonhossan34567@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saimon885&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=saimon885&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-✨ *“Code. Learn. Build. Improve — Every Single Day.”*
+# 👨‍💻 About Me
+
+I'm a passionate Full Stack Developer who enjoys building modern,
+scalable and user-friendly web applications.
+
+I specialize in:
+
+✔ Frontend Development with React & Next.js
+
+✔ Backend Development with Node.js & Express.js
+
+✔ Database Design using MongoDB & PostgreSQL
+
+✔ Type-Safe Applications using TypeScript
+
+✔ ORM & Database Management with Prisma
+
+✔ REST API Development & Authentication
+
+✔ Clean Architecture & Reusable Code
+
+Currently focused on becoming a professional Software Engineer and contributing to impactful products.
+
+---
+
+# 🎯 Current Focus
+
+🌱 Advanced TypeScript & Design Patterns
+
+⚙️ Scalable Backend Architecture
+
+🗄️ PostgreSQL Database Design
+
+🔥 Prisma ORM & Database Optimization
+
+🧠 Data Structures & Algorithms
+
+🚀 Full Stack System Design
+
+🌍 Open Source Contributions
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
+</p>
+
+## Backend and Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+## ORM & Backend Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=prisma,firebase" />
+</p>
+
+## Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,java,python" />
+</p>
+
+## Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,illustrator" />
+</p>
+
+---
+
+# 📚 Computer Science Fundamentals
+
+✔ Object Oriented Programming (OOP)
+
+✔ Data Structures & Algorithms
+
+✔ Time Complexity Analysis
+
+✔ Database Management Systems (DBMS)
+
+✔ Operating Systems
+
+✔ Networking Fundamentals
+
+✔ Software Engineering Principles
+
+---
+
+# 🚀 Featured Projects
+
+### 🩸 BloodHive
+Full Stack Blood Donation Platform
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB
+
+### 🐾 PetBond
+Pet Adoption & Management System
+
+**Tech Stack:** MERN Stack
+
+### 🏠 Home Care Services
+Service Booking & Management Platform
+
+**Tech Stack:** MERN Stack
+
+### 📱 Apps Store
+Modern React Application
+
+**Tech Stack:** React, Firebase
+
+---
+
+# 💡 Development Philosophy
+
+⚡ Write Clean Code
+
+⚡ Build Reusable Components
+
+⚡ Focus on Performance
+
+⚡ Mobile First Design
+
+⚡ Problem Solving Mindset
+
+⚡ Continuous Learning
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saimon885&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimon885&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimon885&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://facebook.com/saimon547674">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+
+<a href="https://instagram.com/saimon547674">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="mailto:saimonhossan34567@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+# 📌 2026 Goals
+
+🎯 Master Advanced Backend Development
+
+🎯 Learn System Design
+
+🎯 Contribute to Open Source
+
+🎯 Build SaaS Products
+
+🎯 Land a Remote Software Engineer Position
+
+---
+
+<p align="center">
+✨ Code. Learn. Build. Improve. Repeat.
+</p>
