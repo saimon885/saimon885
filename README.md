@@ -159,21 +159,22 @@ Modern React Application
 # 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://facebook.com/saimon547674">
-<img src="https://skillicons.dev/icons?i=facebook" />
-</a>
-
-<a href="https://instagram.com/saimon547674">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-<a href="mailto:saimonhossan34567@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
+  <a href="https://www.linkedin.com/in/saimon-hossan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/saimon885">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/saimon547674">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:saimonhossan34567@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://saimon-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
-
 ---
 
 <p align="center">
